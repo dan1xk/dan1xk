@@ -1,11 +1,10 @@
 
-<div align="center">
-  <a href="https://github.com/dan1xk">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=dan1xk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan1xk&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
  ## Frameworks, Libraries & Programming Languages
+ 
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dan1xk&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a>
+ 
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&hide_border=true" /></a>
 
 <p>
     	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>

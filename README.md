@@ -2,18 +2,49 @@
 
  ## Frameworks, Libraries & Programming Languages
  
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dan1xk&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a>
- 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&hide_border=true" /></a>
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dan1xk&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan1xk&layout=compact&langs_count=7&theme=transparent"/>	
+</div>
+<br/>
 
-<p>
-    	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    	<a href="#"><img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-1E90FF.svg?logo=typescript&logoColor=darkblue"></a>
-	<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"></a>
-	<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>  
+<div align="left">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  </a>
+  <a href="https://github.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  </a>
+  <a href="https://pt.wikipedia.org/wiki/Bash">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="40" width="52" alt="bash logo"  />
+  </a>
+  <a href="https://codepen.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="40" width="52" alt="codepen logo"  />
+  </a>
+</div>
+
+###
+
+<p> 
+  Visitor count:
 </p>
+<img src="https://profile-counter.glitch.me/dan1xk/count.svg" />
 
-![](https://komarev.com/ghpvc/?username=dan1xk&label=🔭_Visualizations:)
 
 
 

@@ -3,8 +3,8 @@
  ## Frameworks, Libraries & Programming Languages
  
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dan1xk&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan1xk&layout=compact&langs_count=7&theme=transparent"/>	
+<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=dan1xk&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan1xk&layout=compact&langs_count=7&theme=transparent"/>	
 </div>
 <br/>
 

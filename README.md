@@ -30,9 +30,6 @@
   <a href="https://github.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
   </a>
-  <a href="https://pt.wikipedia.org/wiki/Bash">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="40" width="52" alt="bash logo"  />
-  </a>
   <a href="https://codepen.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="40" width="52" alt="codepen logo"  />
   </a>
@@ -40,10 +37,7 @@
 
 ###
 
-<p> 
-  Visitor count:
-</p>
-<img src="https://profile-counter.glitch.me/dan1xk/count.svg" />
+![](https://komarev.com/ghpvc/?username=dan1xk&style=for-the-badge)
 
 
 
